@@ -5,7 +5,7 @@
 
 :heavy_check_mark: Exercício do mini curso de CSS Flexbox - Origamid, onde o objetivo era tornar a página responsiva evitando ao máximo o uso de media queries. Para isso foram aplicados os conceitos de CSS Flexbox aprendidos nas aula.
 
-  :link: Acesse o projeto [por aqui](https://flex-blog-brunacdp.vercel.app/#).
+  :link: Acesse o projeto [por aqui](brunacdp.github.io/flex-blog/).
   <br>
   <br>
 
